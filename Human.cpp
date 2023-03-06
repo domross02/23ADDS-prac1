@@ -6,7 +6,7 @@ name=inname;
 
 }
 Human::Human(){
-    name="no name";
+    name="Human";
 }
 char Human::makeMove(){
     char move;
