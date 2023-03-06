@@ -10,7 +10,7 @@ int main(){
 Player * c;
 Player * h;
 c= new Computer;
-h= new Human("Jeff");
+h= new Human;
 Referee r;
 
 Player * w;
