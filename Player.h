@@ -5,8 +5,7 @@
 #include <iostream>
 class Player{
     public:
-    Player();
-    Player(std::string inname);
+    
     
     virtual char makeMove()=0;
     std::string getName();

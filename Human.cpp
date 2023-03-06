@@ -1,7 +1,8 @@
 #include "Human.h"
 #include <string>
 #include <iostream>
-Human::Human(std::string inname):Player(inname){
+Human::Human(std::string inname){
+name=inname;
 
 }
 char Human::makeMove(){
