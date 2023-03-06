@@ -5,9 +5,6 @@
 
 class Computer:public Player{
     public:
-    
-    char makeMove();
-    
-    
+    char makeMove();  
 };
 #endif

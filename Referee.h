@@ -2,7 +2,7 @@
 #define REFEREE_H
 #include "Player.h"
 #include "Computer.h"
-#include "Player.h"
+#include "Human.h"
 class Referee{
     public:
 

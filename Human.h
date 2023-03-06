@@ -5,12 +5,8 @@
 #include <iostream>
 class Human:public Player{
 
-    public:
-    
+    public:   
     Human(std::string inname);
     char makeMove();
-    
-
 };
-
 #endif
